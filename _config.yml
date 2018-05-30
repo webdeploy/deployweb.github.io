@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <h2>Deploy web</h2><h4>Desarrollando web modernas</h4>
-  header_text_feature_image: assets/img/banner.jpeg
+  header_text_feature_image: assets/img/banner.jpg
   footer_text: >
    Desarrollado usando <a href="https://jekyllrb.com/">Jekyll</a> con <a href="https://webdeploy.github.io">Deploy Web</a>
 
