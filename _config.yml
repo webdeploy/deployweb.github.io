@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: 
-url: "https://webdeploy.github.io"
+url: "https://deployweb.github.io"
 title: Deploy Web # site's title
 description: "Un sitio web de información sobre desarrollo Web" # used by search engines
 
