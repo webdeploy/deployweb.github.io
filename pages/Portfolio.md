@@ -2,8 +2,8 @@
 layout: page
 title : Portfolio 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "Proyectos desarrollados" 
+feature-img: "assets/img/portfolio.jpg"
 ---
 
 {% include portfolio.html %}

@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 permalink: /about/
+subtitle: "De que se trata el blog" 
 feature-img: "assets/img/about.jpg"
 tags: [Acerca de]
 ---
