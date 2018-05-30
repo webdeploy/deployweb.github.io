@@ -15,8 +15,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Cambiar el encabezado del texto en <code>_config.yml</code> <br> para actualizar.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <h2>Deploy web</h2><h4>Desarrollando web modernas</h4>
+  header_text_feature_image: assets/img/banner.jpeg
   footer_text: >
    Desarrollado usando <a href="https://jekyllrb.com/">Jekyll</a> con <a href="https://webdeploy.github.io">Deploy Web</a>
 
