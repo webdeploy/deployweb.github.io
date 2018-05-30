@@ -18,7 +18,7 @@ theme_settings:
      <p>Cambiar el encabezado del texto en <code>_config.yml</code> <br> para actualizar.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Desarrollado por <a href="https://jekyllrb.com/">Jekyll</a> con <a href="https://github.com/sylhare/Type-on-Strap">Deploy Web</a>
+   Desarrollado usando <a href="https://jekyllrb.com/">Jekyll</a> con <a href="https://webdeploy.github.io">Deploy Web</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
