@@ -22,7 +22,7 @@ Iniciemos: Supongamos que vamos a realizar un sitio web para darnos a conocer po
     * **vistas**: En el caso de que realicemos páginas secundarias es importante tener los archivos html en dicha carpeta.     
 * Y no olvidar el archivo que necesitamos para nuestro sitio web _index.html_ el cual contiene el contenido del sitio.
 
-![Estructura web](../assets/img/posts/estructura.png "Estructura web")
+![Estructura básica web]({{ site.baseurl }}/assets/img/posts/estructura.png)
 
 Básicamente con esa estructura tenemos listo nuestra carpeta e iniciar a trabajar en el desarrollo.
 
