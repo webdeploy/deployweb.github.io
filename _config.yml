@@ -43,7 +43,7 @@ theme_settings:
   twitter: "jonathanquehay"
   vimeo:
   wordpress:
-  youtube: DeployWeb
+  youtube: 
   
   # Sharing options
   share_buttons:
@@ -57,7 +57,7 @@ theme_settings:
     linkedin: true
     wordpress:
     email: true
-    youtube: true
+    youtube: 
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
