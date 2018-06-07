@@ -26,4 +26,8 @@ Iniciemos: Supongamos que vamos a realizar un sitio web para darnos a conocer po
 
 Básicamente con esa estructura tenemos listo nuestra carpeta e iniciar a trabajar en el desarrollo.
 
+Video:
+
+[Video Estructura web](https://www.youtube.com/watch?v=BdVLsYA8bdk)
+
 
