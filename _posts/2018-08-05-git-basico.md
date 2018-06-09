@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 En este artículo veremos como se realiza el proceso para llevar nuestro proyecto a Github, el cual aprenderemos a usar los comandos básicos para crear y subir nuestro primer repositorio.
 
 Para tal uso primero debemos de crear un proyecto, para este ejemplo usaremos un sitio web estático usando html y css.
+<!--more-->
 
 ## Creando el proyecto
 
