@@ -122,7 +122,7 @@ Ahora es momento que creemos un repositorio para subir nuestro proyecto.
 
 Abre una cuenta nueva en **Github** en el siguiente enlace:
 
-[https://github.com/](https://github.com/ "Cuenta en github)
+[https://github.com/](https://github.com/)
 
 Una vez registrado, inicias sesión y vamos a crear un repositorio.
 
